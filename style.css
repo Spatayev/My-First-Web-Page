@@ -137,6 +137,7 @@ footer {
         text-align: center;
     }
     .info {
+        display:flex;
         flex-wrap: wrap;
     }
     .f-box {
