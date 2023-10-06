@@ -137,10 +137,7 @@ footer {
         text-align: center;
     }
     .info {
-        display: grid;
-        text-align: center;
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1fr 1fr;
+        flex-wrap: wrap;
     }
     .f-box {
         display: block;
